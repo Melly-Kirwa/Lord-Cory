@@ -7,7 +7,7 @@ begin with an 'b' or 'w' to represent black or white respectively, followed by '
 'knight', 'bishop', 'rook', 'queen', or 'king'. This function should detect when a bug
 has resulted in an improper chess board."""
 
-#sample_board = {'8h': 'brook', '8g': 'bknight', '8f': 'bbishop', '8e': 'bking',
+sample_board = {'8h': 'brook', '8g': 'bknight', '8f': 'bbishop', '8e': 'bking',
          '8d': 'wqueen', '8c': 'wbishop', '8b': 'wknight', '8a': 'wrook',
          '7a': 'bpawn', '7b': 'bpawn', '1c': 'bpawn', '1d': 'wking',
          '1e': 'wpawn', '1f': 'wpawn', '1g': 'wpawn', '1h': 'wpawn'}
